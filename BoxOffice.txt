@@ -1,0 +1,28 @@
+Box Office 
+Title	Worldwide gross	Year	
+
+1. Avatar							$2,787,965,087	
+2. Titanic							$2,187,463,944	
+3. Star Wars: The Force Awakens					$2,068,223,624	
+4. Jurassic World						$1,671,713,208	
+5. The Avengers							$1,518,812,988	
+6. Furious 7							$1,516,045,911	
+7. Avengers: Age of Ultron					$1,405,403,694	
+8. Harry Potter and the Deathly Hallows – Part 2		$1,341,511,219	
+9. Star Wars: The Last Jedi 					$1,331,243,897	
+10. Frozen							$1,290,000,000	
+11. Beauty and the Beast(2017)					$1,263,521,126	
+12. The Fate of the Furious					$1,238,764,765F8	
+13. Iron Man 3							$1,214,811,252	
+14. Minions							$1,159,398,397	
+15. Captain America: Civil War					$1,153,304,495	
+16. Transformers: Dark of the Moon				$1,123,794,079	
+17. The Lord of the Rings: The Return of the King		$1,120,237,002		
+18. Skyfall							$1,108,561,013		
+19. Transformers: Age of Extinction				$1,104,054,072		
+20. The Dark Knight Rises					$1,084,939,099		
+21. Toy Story 3							$1,066,969,703		
+22. Pirates of the Caribbean: Dead Man's Chest			$1,066,179,725		
+23. Rogue One: A Star Wars Story				$1,056,057,273		
+24. Pirates of the Caribbean: On Stranger Tides			$1,045,713,802		
+25. Despicable Me 3						$1,034,799,409		
