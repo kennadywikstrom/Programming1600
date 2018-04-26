@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 416c383c76ce93946b68b0c27bfb2493
+timeCreated: 1522858824
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Outer Limits
+  fontNames:
+  - SF Outer Limits
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
