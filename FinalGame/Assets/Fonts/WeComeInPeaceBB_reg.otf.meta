@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e82cd153837bf1a45a0b46fbca28031b
+timeCreated: 1522858979
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: We Come In Peace BB
+  fontNames:
+  - We Come In Peace BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e09eb88899e924941b626ace7e75b902, type: 3}
+  - {fileID: 12800000, guid: 9f8f2ac87bfb7924c9a8c5bd49bce9d5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
